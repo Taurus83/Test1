@@ -1,5 +1,0 @@
-node_modules
-3-3-website-large.jpg
-Logo.jpg
-scheme.jpg
-style2.css
